@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    width: 400px;
+    padding: 30px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+h1 {
+    color:hotpink;
+    text-align: center;
+}
+
+#principal {
+    background-color: antiquewhite;
+    padding: 25px;
+}
+
+#opcao input {
+    display: inline; 
+    text-align: center;
+    float: left;
+}
+
